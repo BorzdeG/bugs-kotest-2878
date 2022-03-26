@@ -1,0 +1,16 @@
+[versions]
+jvm = "17"
+kotlin = "1.6.20-RC2"
+kotest = "5.2.1"
+
+[libraries]
+kotest-runner-junit5 = { group = "io.kotest", name = "kotest-runner-junit5", version.ref = "kotest" }
+kotest-framework-datatest = { group = "io.kotest", name = "kotest-framework-datatest", version.ref = "kotest" }
+
+[bundles]
+test-base = [
+	"kotest-runner-junit5", "kotest-framework-datatest"
+]
+
+[plugins]
+kotlin-jvm = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }

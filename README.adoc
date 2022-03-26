@@ -1,0 +1,11 @@
+= Demo for kotest issue https://github.com/kotest/kotest/issues/2878[#2878]
+
+== Environment
+JDK: Liberica 17
+
+IDEA: Community Edition 2021.3.3 (#IC-213.7172.25)
+
+Kotest plugin: 1.1.49-IC-213-EAP-SNAPSHOT
+
+== Screenshot
+image::https://user-images.githubusercontent.com/2332528/160253583-6e6f2086-ee5e-44fc-8947-b5dfc6f35512.png[]

@@ -1,7 +1,7 @@
 [versions]
 jvm = "17"
 kotlin = "1.6.20-RC2"
-kotest = "5.2.1"
+kotest = "5.2.2"
 
 [libraries]
 kotest-runner-junit5 = { group = "io.kotest", name = "kotest-runner-junit5", version.ref = "kotest" }

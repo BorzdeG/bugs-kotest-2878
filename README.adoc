@@ -3,9 +3,9 @@
 == Environment
 JDK: Liberica 17
 
-IDEA: Community Edition 2021.3.3 (#IC-213.7172.25)
+IDEA: Ultimate Edition 2022.1.1 (#IU-221.5591.19)
 
-Kotest plugin: 1.1.50-IC-213-EAP-SNAPSHOT
+Kotest plugin: 1.1.50-IC-221-EAP-SNAPSHOT
 
 == Screenshot
 image::https://user-images.githubusercontent.com/2332528/160253583-6e6f2086-ee5e-44fc-8947-b5dfc6f35512.png[]
